@@ -1,0 +1,796 @@
+<body>
+    <header>
+        <div class="container container-top">
+            <div class="top-logo">
+                <a href="https://mangakakalot.com/" title="Manga Online">
+                    <img src="https://mangakakalot.com/themes/home/icons/logo.png" alt="Manga Online" title="Manga Online"/>
+                </a>
+            </div>
+            <div class="top-header">
+                <div class="searching">
+                    <form name="frmsearch">
+                        <input autocomplete="off" id="search_story" placeholder="Search manga..."/>
+                        <input style="display: none;"/>
+                    </form>
+                </div>
+                <div class="user-options">
+                    <div class="login-top">
+                        <a rel="nofollow" href="https://user.manganelo.com/login?l=mangakakalot" class="btn-login">Login</a>
+                        <a rel="nofollow" href="https://user.manganelo.com/register?l=mangakakalot" class="btn-register">Register</a>
+                    </div>
+                </div>
+            </div>
+            <a class="mobile-menu">MENU</a>
+            <nav class="wrap-menu-primary">
+                <ul id="menu-menu-top" class="menu-primary">
+                    <li class="menu-item">
+                        <a href="https://mangakakalot.com/">HOME</a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="https://mangakakalot.com/manga_list?type=latest&amp;category=all&amp;state=all&amp;page=1" title="LATEST MANGA">LATEST MANGA</a>
+                    </li>
+                    <li class="menu-item">
+                        <a rel="nofollow" href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=all&amp;page=1" title="HOT MANGA">HOT MANGA</a>
+                    </li>
+                    <li class="menu-item">
+                        <a rel="nofollow" href="https://mangakakalot.com/manga_list?type=newest&amp;category=all&amp;state=all&amp;page=1" title="NEW MANGA">NEW MANGA</a>
+                    </li>
+                    <li class="menu-item">
+                        <a rel="nofollow" href="https://mangakakalot.com/manga_list?type=newest&amp;category=all&amp;state=Completed&amp;page=1" title="COMPLETED MANGA">COMPLETED MANGA</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="container">
+        <div class="slide">
+            <h3 class="title update-slide">POPULAR MANGA</h3>
+            <div id="owl-demo" class="owl-carousel">
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/19/o/19-1583499863.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-nz2fb158504821825" title="Rebirth Of The Urban Immortal Cultivator">Rebirth Of The Urban Immortal Cultivator</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/gd920457/chapter_326" title="Chapter 326">Chapter 326</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/33/b/20-1583502304.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-kl8un158504840073" title="Immortal Swordsman in The Reverse World">Immortal Swordsman in The Reverse World</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/ny922152/chapter_99" title="Chapter 99">Chapter 99</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/2/q/20-1583501094.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-of5ex158504840587" title="I&apos;m The Great Immortal">I'm The Great Immortal</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/jf921342/chapter_164" title="Chapter 164">Chapter 164</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/14/w/15-1583491995.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-el8qc158504834366" title="The Hunter">The Hunter</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/rhi243232/chapter_189" title="Chapter 189">Chapter 189</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/16/a/18-1583497713.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-cv0il158504831406" title="Metropolitan System">Metropolitan System</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/cd919002/chapter_282" title="Chapter 282: Metropolitan System Chapter 282">Chapter 282: Metropolitan System Chapter 282</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/7/f/21-1588309436.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/manga/go922760" title="The Great Mage Returns After 4000 Years">The Great Mage Returns After 4000 Years</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/go922760/chapter_33" title="Chapter 33">Chapter 33</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/13/m/16-1583493958.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-ir4ei158504831671" title="Hero? I Quit A Long Time Ago.">Hero? I Quit A Long Time Ago.</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/hero_i_quit_a_long_time_ago/chapter_193" title="Chapter 193">Chapter 193</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/19/e/1-1583464448.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-qu4wd158504821675" title="Tomo-chan wa Onnanoko!">Tomo-chan wa Onnanoko!</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/tomochan_wa_onnanoko/chapter_953.6" title="Vol.8 Chapter 953.6: Volume 8 Extras">Vol.8 Chapter 953.6: Volume 8 Extras</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/42/w/15-1583493201.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-kk9oa158504822195" title="Yong Heng Zhi Zun">Yong Heng Zhi Zun</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/yong_heng_zhi_zun/chapter_228" title="Chapter 228">Chapter 228</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/42/b/18-1583498731.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-xf9fk158504906020" title="Peerless Battle Spirit">Peerless Battle Spirit</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/ff919711/chapter_130" title="Chapter 130">Chapter 130</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/29/w/19-1583500265.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-xa5yr158504869596" title="The Strongest God King">The Strongest God King</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/pg920736/chapter_103" title="Chapter 103">Chapter 103</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/2/k/17-1583495347.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-au4zt158504835500" title="The Ghostly Doctor">The Ghostly Doctor</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/the_ghostly_doctor/chapter_213" title="Chapter 213">Chapter 213</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/22/t/19-1583500017.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-ex1hg158504833817" title="Martial Arts Reigns">Martial Arts Reigns</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/aq920543/chapter_159" title="Chapter 159">Chapter 159</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/36/g/19-1583500508.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-cv8ks158504837707" title="Metropolitan Supremacy System">Metropolitan Supremacy System</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/qo920908/chapter_141" title="Chapter 141">Chapter 141</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/1/a/1-1583465724.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-cn7ik158504821907" title="Domestic na Kanojo">Domestic na Kanojo</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/domestic_na_kanojo/chapter_276.2" title="Chapter 276.2: Days With Hina">Chapter 276.2: Days With Hina</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/43/w/1-1583465436.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-es3lx158504831310" title="The Mythical Realm">The Mythical Realm</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/the_mythical_realm/chapter_206.1" title="Chapter 206.1">Chapter 206.1</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/50/v/15-1583493491.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-in2qj158504831868" title="Isekai Nonbiri Nouka">Isekai Nonbiri Nouka</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/isekai_nonbiri_nouka/chapter_121" title="Chapter 121">Chapter 121</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/20/g/16-1583494198.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-qi1hg158504846843" title="Sono Bisque Doll wa Koi wo suru">Sono Bisque Doll wa Koi wo suru</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/sono_bisque_doll_wa_koi_wo_suru/chapter_42" title="Vol.6 Chapter 42">Vol.6 Chapter 42</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/6/v/19-1583499341.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-rl4cd158504850497" title="Rebirth: City Deity">Rebirth: City Deity</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/we920109/chapter_78" title="Chapter 78">Chapter 78</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/21/k/1-1583464539.jpg"/>
+                    <div class="slide-caption">
+                        <h3>
+                            <a href="https://mangakakalot.com/read-ha2lu158504822509" title="19 Days">19 Days</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/19_days/chapter_326" title="Chapter 326">Chapter 326</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main-wrapper">
+            <div></div>
+            <div class="leftCol listCol">
+                <div class="truyen-list">
+                    <div class="breadcrumb breadcrumbs">
+                        <p>
+                            <span>
+                                <a href="https://mangakakalot.com/" title="Manga online" class="home">Manga online</a>
+                            </span>
+                            <span class="separator">»</span>
+                            <span>
+                                <a href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=all&amp;page=1">Category: All</a>
+                            </span>
+                            <span class="separator">»</span>
+                            <span>
+                                <a href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=All&amp;page=1">Status: All</a>
+                            </span>
+                            <span class="separator">»</span>
+                            <span>
+                                <a href="https://mangakakalot.com/manga_list?type=Topview&amp;category=all&amp;state=all&amp;page=1">Hot manga</a>
+                            </span>
+                            <span class="separator">»</span>Page 1</p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/hyer5231574354229" title="Tales of Demons and Gods">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/19/v/1-1583464475.jpg" alt="Tales of Demons and Gods"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/hyer5231574354229" title="Tales of Demons and Gods">Tales of Demons and Gods</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/hyer5231574354229/chapter_280" title="Chapter 280" class="list-story-item-wrap-chapter">Chapter 280</a>
+                        <div>
+                            <span class="aye_icon">225,221,235</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Nie Li, one of the strongest Demon Spiritist in his past life standing at the pinnacle of the martial world , however he lost his life during the battle with Sage Emperor and the six deity ranked beast, his soul was then reborn back in time back to when he is still 13. Although he&amp;rsquo;s the weakest in his class with the lowest talent at only Red soul realm, with the aid of the vast knowledge whi<a rel="nofollow" href="https://manganelo.com/manga/hyer5231574354229" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/pn918005" title="Solo Leveling">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/30/a/17-1583496340.jpg" alt="Solo Leveling"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/pn918005" title="Solo Leveling">Solo Leveling</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/pn918005/chapter_110" title="Chapter 110: Season 1 Finale" class="list-story-item-wrap-chapter">Chapter 110: Season 1 Finale</a>
+                        <div>
+                            <span class="aye_icon">161,622,224</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>10 years ago, after &amp;ldquo;the Gate&amp;rdquo; that connected the real world with the monster world opened, some of the ordinary, everyday people received the power to hunt monsters within the Gate. They are known as &amp;quot;Hunters&amp;quot;. However, not all Hunters are powerful. My name is Sung Jin-Woo, an E-rank Hunter. I&amp;#39;m someone who has to risk his life in the lowliest of dungeons, the &amp;quot;W<a rel="nofollow" href="https://manganelo.com/manga/pn918005" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/dtdc220351567737255" title="Star Martial God Technique">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/32/i/14-1583490877.jpg" alt="Star Martial God Technique"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/dtdc220351567737255" title="Star Martial God Technique">Star Martial God Technique</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/dtdc220351567737255/chapter_354" title="Chapter 354" class="list-story-item-wrap-chapter">Chapter 354</a>
+                        <div>
+                            <span class="aye_icon">108,396,405</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>In the whole world there lays twelve paths to climb Tower of God, and in legends these twelve pathways leads toward legendary road of immortality. However these paths in the Tower of God, are far too long, without end. In ancient times there once were many types of martial arts, sadly the world underwent terrible changes, and only three were left: Flame, Dragon and Star Martial Arts. Generations o<a rel="nofollow" href="https://manganelo.com/manga/dtdc220351567737255" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/apotheosis" title="Apotheosis">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/13/f/16-1583493949.jpg" alt="Apotheosis"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/apotheosis" title="Apotheosis">Apotheosis</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/apotheosis/chapter_586" title="Chapter 586" class="list-story-item-wrap-chapter">Chapter 586</a>
+                        <div>
+                            <span class="aye_icon">104,553,087</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Apotheosis - elevation to the status of a god. Luo Zheng, now a humble slave was born as the eldest son of a wealthy family. Due to his family&amp;#39;s decline, the kidnapping of his sister by a powerful force, he can now only be stepped upon by others. However, heaven never seals off all exits. An ancient book left by his father reveals a secret divine technique, giving the reader immense power! But<a rel="nofollow" href="https://manganelo.com/manga/apotheosis" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a href="https://mangakakalot.com/read-qu4wd158504821675" title="Tomo-chan wa Onnanoko!">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/19/e/1-1583464448.jpg" alt="Tomo-chan wa Onnanoko!"/>
+                        </a>
+                        <h3>
+                            <a href="https://mangakakalot.com/read-qu4wd158504821675" title="Tomo-chan wa Onnanoko!">Tomo-chan wa Onnanoko!</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/tomochan_wa_onnanoko/chapter_953.6" title="Vol.8 Chapter 953.6: Volume 8 Extras" class="list-story-item-wrap-chapter">Vol.8 Chapter 953.6: Volume 8 Extras</a>
+                        <div>
+                            <span class="aye_icon">104,293,742</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Tomo loves Jun, but she is really boyish (speaks like a boy, is the strongest karateka of her school...) and can&amp;#39;t get him to think of her as a girl. Read the funny lives of Tomo, her best friend Misuzu and Jun!<a href="https://mangakakalot.com/read-qu4wd158504821675" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/kimetsu_no_yaiba" title="Kimetsu no Yaiba">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/30/e/13-1583488820.jpg" alt="Kimetsu no Yaiba"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/kimetsu_no_yaiba" title="Kimetsu no Yaiba">Kimetsu no Yaiba</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/kimetsu_no_yaiba/chapter_205" title="Chapter 205: Lives That Make the Years Shine [END]" class="list-story-item-wrap-chapter">Chapter 205: Lives That Make the Years Shine [END]</a>
+                        <div>
+                            <span class="aye_icon">101,388,011</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Tanjiro is the oldest son in his family who has lost his father. One day, Tanjiro ventures off to another town to sell charcoal. Instead of going home, he ends up staying the night at someone else&amp;#39;s house due to rumors of a demon nearby in the mountains. When he gets home the following day, a terrible tragedy awaits him.<a rel="nofollow" href="https://manganelo.com/manga/kimetsu_no_yaiba" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/vrin278571580265812" title="Versatile Mage">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/33/a/16-1583494657.jpg" alt="Versatile Mage"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/vrin278571580265812" title="Versatile Mage">Versatile Mage</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/vrin278571580265812/chapter_460" title="Chapter 460" class="list-story-item-wrap-chapter">Chapter 460</a>
+                        <div>
+                            <span class="aye_icon">98,279,096</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Summary:He awoke, and the world was changed. The familiar high school now teaches magic, encouraging students to become the greatest magicians they can be. Beyond the city limits, wandering magical beasts prey on humans.An advanced scientific world changed into one with advanced magic. Yet, what has not changed was the same teacher<a rel="nofollow" href="https://manganelo.com/manga/vrin278571580265812" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/huku267071576897767" title="God of Martial Arts">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/5/a/16-1583493642.jpg" alt="God of Martial Arts"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/huku267071576897767" title="God of Martial Arts">God of Martial Arts</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/huku267071576897767/chapter_115.3" title="Chapter 115.3 - Officer!" class="list-story-item-wrap-chapter">Chapter 115.3 - Officer!</a>
+                        <div>
+                            <span class="aye_icon">94,876,270</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>In this world, respect is earned with martial arts. Weak martial artists have strengths of tens of thousands of pounds, capable of cracking boulders. And the strong ones can cut off rivers and split mountains. There are even martial kings who know everything and can travel across the universe. Martial art decides your fate as well as your life and death. The weak is humiliated while the strong loo<a rel="nofollow" href="https://manganelo.com/manga/huku267071576897767" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/martial_peak" title="Martial Peak">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/20/b/16-1583494192.jpg" alt="Martial Peak"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/martial_peak" title="Martial Peak">Martial Peak</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/martial_peak/chapter_583" title="Chapter 583 - Abandoned Earth" class="list-story-item-wrap-chapter">Chapter 583 - Abandoned Earth</a>
+                        <div>
+                            <span class="aye_icon">90,015,812</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>The journey to the martial peak is a lonely, solitary and long one.In the face of adversity,you must survive and remain unyielding.Only then can you break through and and continue on your journey to become the strongest. Sky Tower tests its disciples in the harshest ways to prepare them for this journey.One day the lowly sweeper Yang Kai managed to obtain a black book, setting him on the road t<a rel="nofollow" href="https://manganelo.com/manga/martial_peak" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/read_one_piece_manga_online_free4" title="One Piece">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/3/u/1-1583463814.jpg" alt="One Piece"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/read_one_piece_manga_online_free4" title="One Piece">One Piece</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/read_one_piece_manga_online_free4/chapter_983" title="Chapter 983" class="list-story-item-wrap-chapter">Chapter 983</a>
+                        <div>
+                            <span class="aye_icon">89,691,984</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Where To Read One Piece Manga OnlineIf you&amp;rsquo;re a fan of anime and manga, then you definitely know One Piece. It&amp;rsquo;s a Japanese manga series by Eiichiro Oda, a world-renowned manga writer and illustrator. It was released nearly two decades ago back in July of 1997. Since then, the manga has been adapted into an anime series and OVA. There have also been num<a rel="nofollow" href="https://manganelo.com/manga/read_one_piece_manga_online_free4" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a href="https://mangakakalot.com/read-nz2fb158504821825" title="Rebirth Of The Urban Immortal Cultivator">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/19/o/19-1583499863.jpg" alt="Rebirth Of The Urban Immortal Cultivator"/>
+                        </a>
+                        <h3>
+                            <a href="https://mangakakalot.com/read-nz2fb158504821825" title="Rebirth Of The Urban Immortal Cultivator">Rebirth Of The Urban Immortal Cultivator</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/gd920457/chapter_326" title="Chapter 326" class="list-story-item-wrap-chapter">Chapter 326</a>
+                        <div>
+                            <span class="aye_icon">81,240,117</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>During the anti-cataclysm period, the monk Chen Fanyu fell into the catastrophe of the day, but he dreamed of returning to the earth&amp;#39;s young age in five hundred years. In the last life, I was on the top of the universe, overlooking the world, but no one was accompanied. This world is only willing to live with the right person. After 500 years, the immortal reborn and returned to the city, to m<a href="https://mangakakalot.com/read-nz2fb158504821825" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a href="https://mangakakalot.com/read-to2kf158504821782" title="Mousou Telepathy">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/30/b/14-1583490801.jpg" alt="Mousou Telepathy"/>
+                        </a>
+                        <h3>
+                            <a href="https://mangakakalot.com/read-to2kf158504821782" title="Mousou Telepathy">Mousou Telepathy</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/mousou_telepathy/chapter_717.5" title="Vol.7 Chapter 717.5: Volume 7: Extras" class="list-story-item-wrap-chapter">Vol.7 Chapter 717.5: Volume 7: Extras</a>
+                        <div>
+                            <span class="aye_icon">75,939,456</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Nakano-san is a high school girl who can look into people&amp;#39;s minds. Because of that, she finds out that the mind of the popular Toda-kun is full of wild fantasies about her!<a href="https://mangakakalot.com/read-to2kf158504821782" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/read_boku_no_hero_academia_manga" title="Boku no Hero Academia">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/23/e/1-1583464609.jpg" alt="Boku no Hero Academia"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/read_boku_no_hero_academia_manga" title="Boku no Hero Academia">Boku no Hero Academia</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/read_boku_no_hero_academia_manga/chapter_275" title="Chapter 275" class="list-story-item-wrap-chapter">Chapter 275</a>
+                        <div>
+                            <span class="aye_icon">69,765,279</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Boku no Hero Academia Manga is a continuous Japanese super hero manga series written and illustrated by Kohei Horikoshi.Izuku Midoriya was only a regular middle school pupil in a world where individuals with superpowers known as &amp;quot;Quirks&amp;quot; will be the standard. Nevertheless, he dreams of one day being a Hero, for lacking a Quirk, despite being intimidated by his cla<a rel="nofollow" href="https://manganelo.com/manga/read_boku_no_hero_academia_manga" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/zu917722" title="A Returner&apos;s Magic Should Be Special">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/19/m/17-1583495960.jpg" alt="A Returner&apos;s Magic Should Be Special"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/zu917722" title="A Returner&apos;s Magic Should Be Special">A Returner's Magic Should Be Special</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/zu917722/chapter_107" title="Chapter 107" class="list-story-item-wrap-chapter">Chapter 107</a>
+                        <div>
+                            <span class="aye_icon">64,203,543</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>&amp;quot;Now that I&amp;#39;m back, I won&amp;#39;t allow my loved ones to die again!&amp;quot;The Shadow Labyrinth - the most catastrophic existence humanity has faced in history.Desir Arman is one of the six remaining survivors of mankind within it.The six attempt to clear the final level of the labyrinth but ultimately fail, and the world comes to an end.Howeve<a rel="nofollow" href="https://manganelo.com/manga/zu917722" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/kingdom" title="Kingdom">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/7/n/1-1583463961.jpg" alt="Kingdom"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/kingdom" title="Kingdom">Kingdom</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/kingdom/chapter_644" title="Chapter 644: House of the Peach Spring" class="list-story-item-wrap-chapter">Chapter 644: House of the Peach Spring</a>
+                        <div>
+                            <span class="aye_icon">63,936,208</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Millions of years have passed since the times of legends, when the worlds of man and gods were still the same. In these times it was the desires of man that moved the world. It is the era of the 500 year war - TheWarring States period (403-222 BC in Chinese history). Kingdom is the story of a young boy named Shin who<a rel="nofollow" href="https://manganelo.com/manga/kingdom" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/read_one_punch_man_manga_online_free3" title="Onepunch-Man">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/18/f/1-1583464405.jpg" alt="Onepunch-Man"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/read_one_punch_man_manga_online_free3" title="Onepunch-Man">Onepunch-Man</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/read_one_punch_man_manga_online_free3/chapter_131" title="Chapter 131: Heroes Never Lose" class="list-story-item-wrap-chapter">Chapter 131: Heroes Never Lose</a>
+                        <div>
+                            <span class="aye_icon">63,622,929</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Onepunch man MangaOne punch-Man imitates the life of an average hero who wins all of his fights with only one punch! This is why he is called Onepunch man Manga. This story takes place in the fictional Z-City. The world is full of mysterious beings, villains and monsters that cause destruction and havoc. An association of heroes has been establishe<a rel="nofollow" href="https://manganelo.com/manga/read_one_punch_man_manga_online_free3" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a href="https://mangakakalot.com/read-cn7ik158504821907" title="Domestic na Kanojo">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/1/a/1-1583465724.jpg" alt="Domestic na Kanojo"/>
+                        </a>
+                        <h3>
+                            <a href="https://mangakakalot.com/read-cn7ik158504821907" title="Domestic na Kanojo">Domestic na Kanojo</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/domestic_na_kanojo/chapter_276.2" title="Chapter 276.2: Days With Hina" class="list-story-item-wrap-chapter">Chapter 276.2: Days With Hina</a>
+                        <div>
+                            <span class="aye_icon">63,396,604</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Tonight, Natsuo loses his virginity. His partner? Her name is Rui and he just met her today after school. She&amp;#39;s the one that brought up this whole situation, stating that she wanted to simply gain the knowledge about sex. She does not want to start a relationship, nor does she care about Natsuo. Afterwards, Natsuo feels guilty for losing his virginity to a girl he doesn&amp;#39;t even particularly<a href="https://mangakakalot.com/read-cn7ik158504821907" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/jc917903" title="Iron Ladies">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/26/e/17-1583496195.jpg" alt="Iron Ladies"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/jc917903" title="Iron Ladies">Iron Ladies</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/jc917903/chapter_318" title="Chapter 318: Gentle and Tranquil" class="list-story-item-wrap-chapter">Chapter 318: Gentle and Tranquil</a>
+                        <div>
+                            <span class="aye_icon">60,988,836</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>University graduate Mu Siyun sent his resume to the star fleet on a whim and somehow became the Fleet Admiral! Ths is the story about an admiral with a harem of 3000 female soldiers conquering the universe&amp;hellip;<a rel="nofollow" href="https://manganelo.com/manga/jc917903" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a href="https://mangakakalot.com/read-fb2wq158504822052" title="Hajime no Ippo">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/6/a/1-1583463897.jpg" alt="Hajime no Ippo"/>
+                        </a>
+                        <h3>
+                            <a href="https://mangakakalot.com/read-fb2wq158504822052" title="Hajime no Ippo">Hajime no Ippo</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/read_hajime_no_ippo_manga/chapter_1303" title="Chapter 1303" class="list-story-item-wrap-chapter">Chapter 1303</a>
+                        <div>
+                            <span class="aye_icon">60,947,928</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Hajime no Ippo manga is japanese manga written byGeorge MorikawaSeveral bullies directed by Umezawa got into the practice of picking on him, because he kept to himself. One day, he was given a somewhat serious beating by these bullies. A middleweight professional fighter who was passing by to treat his wounds and took the wounded Ippo to the Kamogawa Gym,owne<a href="https://mangakakalot.com/read-fb2wq158504822052" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a href="https://mangakakalot.com/read-kk9oa158504822195" title="Yong Heng Zhi Zun">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/42/w/15-1583493201.jpg" alt="Yong Heng Zhi Zun"/>
+                        </a>
+                        <h3>
+                            <a href="https://mangakakalot.com/read-kk9oa158504822195" title="Yong Heng Zhi Zun">Yong Heng Zhi Zun</a>
+                        </h3>
+                        <a href="https://mangakakalot.com/chapter/yong_heng_zhi_zun/chapter_228" title="Chapter 228" class="list-story-item-wrap-chapter">Chapter 228</a>
+                        <div>
+                            <span class="aye_icon">60,271,552</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>[Summary by OSTNT]It has been a year since Li Fu Chen lost his “Talent”. Now he lives the life of a trash, being bullied and beaten by those who once was inferior to him. However, he still has not lost everything as he’s still engaged to a strong and pretty girl of a powerful family, but that came to an end as the engagement was abruptly cancelled.With shame brought to the family and his<a href="https://mangakakalot.com/read-kk9oa158504822195" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/komisan_wa_komyushou_desu" title="Komi-san wa Komyushou Desu">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/25/s/2-1583466695.jpg" alt="Komi-san wa Komyushou Desu"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/komisan_wa_komyushou_desu" title="Komi-san wa Komyushou Desu">Komi-san wa Komyushou Desu</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/komisan_wa_komyushou_desu/chapter_256" title="Chapter 256: Career Counseling" class="list-story-item-wrap-chapter">Chapter 256: Career Counseling</a>
+                        <div>
+                            <span class="aye_icon">60,216,048</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Komi-san is the beautiful and admirable girl that no-one can take their eyes off her. Almost the whole school sees her as the cold beauty out of their league, but Tadano Shigeo knows the truth: she&amp;#39;s just really bad at communicating with others. Komi-san, who wishes to fix this bad habit of hers, tries to improve it with the help of Tadano-kun.<a rel="nofollow" href="https://manganelo.com/manga/komisan_wa_komyushou_desu" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/spirit_sword_sovereign" title="Spirit Sword Sovereign">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/2/m/17-1583495350.jpg" alt="Spirit Sword Sovereign"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/spirit_sword_sovereign" title="Spirit Sword Sovereign">Spirit Sword Sovereign</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/spirit_sword_sovereign/chapter_287" title="Chapter 287" class="list-story-item-wrap-chapter">Chapter 287</a>
+                        <div>
+                            <span class="aye_icon">55,835,882</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>Once the spirit sword roars, within heaven, earth and the three worlds, I shall reign as the sovereign! Those who do not submit shall die!<a rel="nofollow" href="https://manganelo.com/manga/spirit_sword_sovereign" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/tang_yin_zai_yi_jie" title="Tang Yin Zai Yi Jie">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/46/q/15-1583493344.jpg" alt="Tang Yin Zai Yi Jie"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/tang_yin_zai_yi_jie" title="Tang Yin Zai Yi Jie">Tang Yin Zai Yi Jie</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/tang_yin_zai_yi_jie/chapter_362" title="Chapter 362" class="list-story-item-wrap-chapter">Chapter 362</a>
+                        <div>
+                            <span class="aye_icon">54,360,149</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>His body has different abilities, but he has not found any way to use them in the real world, all he can do is to be a professional killer. But at least after going to a different world, where there is only fighting or death in the battlefield its strength will appear differently. His name is Tang Yin...<a rel="nofollow" href="https://manganelo.com/manga/tang_yin_zai_yi_jie" title="">More.</a></p>
+                    </div>
+                    <div class="list-truyen-item-wrap">
+                        <a rel="nofollow" href="https://manganelo.com/manga/read_doupo_cangqiong_manga" title="Doupo Cangqiong">
+                            <img onerror="javascript:this.src=&apos;//mangakakalot.com/themes/home/images/404-avatar.png&apos;;" src="https://avt.mkklcdnv6.com/31/l/1-1583464932.jpg" alt="Doupo Cangqiong"/>
+                        </a>
+                        <h3>
+                            <a rel="nofollow" href="https://manganelo.com/manga/read_doupo_cangqiong_manga" title="Doupo Cangqiong">Doupo Cangqiong</a>
+                        </h3>
+                        <a rel="nofollow" href="https://manganelo.com/chapter/read_doupo_cangqiong_manga/chapter_298" title="Chapter 298: Escaping Souls" class="list-story-item-wrap-chapter">Chapter 298: Escaping Souls</a>
+                        <div>
+                            <span class="aye_icon">54,055,567</span>
+                        </div>
+                        <br/>
+                        <br/>
+                        <p>From DesperateScanners: In a land where no magic is present. A land where the strong makes the rules and weak has to obey. A land filled with alluring treasures and beauty yet also filled with unforeseen danger. Xiao Yan, who has shown talents none had seen in decades, suddenly three years ago lost everything, his powers, his reputation, and his promise to his mother. What sorcery has caused him t<a rel="nofollow" href="https://manganelo.com/manga/read_doupo_cangqiong_manga" title="">More.</a></p>
+                    </div>
+                    <div style="clear: both"></div>
+                    <div class="panel_page_number">
+                        <div class="group_page">
+                            <a href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=all&amp;page=1" class="page_blue">First(1)</a>
+                            <a class="page_select">1</a>
+                            <a href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=all&amp;page=2">2</a>
+                            <a href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=all&amp;page=3">3</a>
+                            <a href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=all&amp;page=1107" class="page_blue page_last">Last(1107)</a>
+                        </div>
+                        <div class="group_qty">
+                            <a class="page_blue">Total: 26,562 stories</a>
+                        </div>
+                    </div>
+                    <ul class="tag tag-name">
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=all&amp;page=1" title="All Manga" class="highlight">ALL</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=2&amp;state=all&amp;page=1" title="A work typically depicting fighting, violence, chaos, and fast paced motion...." class="">Action</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=3&amp;state=all&amp;page=1" title="Contains content that is suitable only for adults. Titles in this category may include prolonged scenes of intense violence and/or graphic sexual content and nudity." class="">Adult</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=4&amp;state=all&amp;page=1" title="If a character in the story goes on a trip or along that line, your best bet is that it is an adventure manga. Otherwise, it&apos;s up to your personal prejudice on this case." class="">Adventure</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=6&amp;state=all&amp;page=1" title="A dramatic work that is light and often humorous or satirical in tone and that usually contains a happy resolution of the thematic conflict." class="">Comedy</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=7&amp;state=all&amp;page=1" title="Mangas about food, cooking skills with many food in it!!! If you&apos;re a food lover. This Cooking category is for youuu!!" class="">Cooking</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=9&amp;state=all&amp;page=1" title="Fan based work inspired by official anime or manga. For MangaUpdates, original works DO NOT fall under this category" class="">Doujinshi</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=10&amp;state=all&amp;page=1" title="A work meant to bring on an emotional response, such as instilling sadness or tension." class="">Drama</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=11&amp;state=all&amp;page=1" title="Possibly the line between hentai and non-hentai, ecchi usually refers to fanservice put in to attract a certain group of fans." class="">Ecchi</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=12&amp;state=all&amp;page=1" title="Anything that involves, but not limited to, magic, dream world, and fairy tales." class="">Fantasy</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=13&amp;state=all&amp;page=1" title="Girls dressing up as guys, guys dressing up as girls.. Guys turning into girls, girls turning into guys.. I think you get the picture." class="">Gender bender</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=14&amp;state=all&amp;page=1" title="A series involving one male character and many female characters (usually attracted to the male character). A Reverse Harem is when the genders are reversed." class="">Harem</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=15&amp;state=all&amp;page=1" title="Having to do with old or ancient times." class="">Historical</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=16&amp;state=all&amp;page=1" title="A painful emotion of fear, dread, and abhorrence; a shuddering with terror and detestation; the feeling inspired by something frightful and shocking." class="">Horror</a>
+                        </li>
+                        <li>
+                            <a rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=45&amp;state=all&amp;page=1" title="" class="">Isekai</a>
+                        </li>
+                        <li>
+                            <a mature.="true" equivalent="true" romance="true" storytelling="true" Woman.="true" title="Literally " seinen.="true" idealized.="true" The="true" realistic="true" and="true" rel="tag" Female="true" href="https://mangakakalot.com/manga_list?type=topview&amp;category=17&amp;state=all&amp;page=1" Unlike="true" class="" more="true" Targets="true" is="true" shoujo="true" less="true" the="true" explicit="true" to="true" women="true">Josei</a>
+                        </li>
+                        <li>
+                            <a title="Manhua (simplified Chinese: 漫画; traditional Chinese: 漫畫; pinyin: Mànhuà; Jyutping: maan6 waa2) are Chinese comics produced in Mainland China, Hong Kong, and Taiwan." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=44&amp;state=all&amp;page=1" class="">Manhua</a>
+                        </li>
+                        <li>
+                            <a title="Manhwa (Hangul: 만화; Popular known as Webtoon, is the general Korean term for comics and print cartoons (common usage also includes animated cartoons). Outside of Korea, the term usually refers to South Korean comics, although the comics industry emerges in North Korea as well." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=43&amp;state=all&amp;page=1" class="">Manhwa</a>
+                        </li>
+                        <li>
+                            <a title="As the name suggests, anything martial arts related. Any of several arts of combat or self-defense, such as aikido, karate, judo, or tae kwon do, kendo, fencing, and so on and so forth." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=19&amp;state=all&amp;page=1" class="">Martial arts</a>
+                        </li>
+                        <li>
+                            <a title="Contains subject matter which may be too extreme for people under the age of 17. Titles in this category may contain intense violence, blood and gore, sexual content and/or strong language." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=20&amp;state=all&amp;page=1" class="">Mature</a>
+                        </li>
+                        <li>
+                            <a title="A work involving and usually concentrating on all types of large robotic machines." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=21&amp;state=all&amp;page=1" class="">Mecha</a>
+                        </li>
+                        <li>
+                            <a title="Mangas which related to the treatment of illness and injuries." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=22&amp;state=all&amp;page=1" class="">Medical</a>
+                        </li>
+                        <li>
+                            <a title="Usually an unexplained event occurs, and the main protagonist attempts to find out what caused it." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=24&amp;state=all&amp;page=1" class="">Mystery</a>
+                        </li>
+                        <li>
+                            <a next="true" chapter="true" chapter.="true" quick="true" be="true" perfect="true" waiting="true" released.="true" for="true" do="true" title="One Shot" when="true" that="true" not="true" are="true" and="true" of="true" stuck="true" rel="tag" manga="true" term="true" end="true" href="https://mangakakalot.com/manga_list?type=topview&amp;category=25&amp;state=all&amp;page=1" usually="true" has="true" class="" just="true" you="true" a="true" read="true" middle="true" in="true" one="true" want="true" start="true" is="true" denotes="true" an="true" They="true" the="true" consisting="true" series="true" short="true" looking="true" to="true" story="true">One shot</a>
+                        </li>
+                        <li>
+                            <a title="Usually deals with the philosophy of a state of mind, in most cases detailing abnormal psychology." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=26&amp;state=all&amp;page=1" class="">Psychological</a>
+                        </li>
+                        <li>
+                            <a title="Any love related story. We will define love as between man and woman in this case. Other than that, it is up to your own imagination of what love is." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=27&amp;state=all&amp;page=1" class="">Romance</a>
+                        </li>
+                        <li>
+                            <a title="Having a major setting of the story deal with some type of school." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=28&amp;state=all&amp;page=1" class="">School life</a>
+                        </li>
+                        <li>
+                            <a title="Short for science fiction, these works involve twists on technology and other science related phenomena which are contrary or stretches of the modern day scientific world." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=29&amp;state=all&amp;page=1" class="">Sci fi</a>
+                        </li>
+                        <li>
+                            <a deal="true" works="true" young="true" university="true" students="true" title="Seinen means " targets="true" around="true" issues="true" Man.="true" The="true" that="true" are="true" and="true" of="true" Typically="true" rel="tag" working="true" specifically="true" href="https://mangakakalot.com/manga_list?type=topview&amp;category=30&amp;state=all&amp;page=1" lines="true" class="" seinen="true" those="true" adulthood.="true" stories="true" in="true" titles.="true" males="true" appeal="true" the="true" with="true" ages="true" to="true" adult="true" Manga="true" anime="true" world.="true" story="true">Seinen</a>
+                        </li>
+                        <li>
+                            <a title="A work intended and primarily written for females. Usually involves a lot of romance and strong character development." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=31&amp;state=all&amp;page=1" class="">Shoujo</a>
+                        </li>
+                        <li>
+                            <a speak.="true" title="Often synonymous with yuri, this can be thought of as somewhat less extreme. " rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=32&amp;state=all&amp;page=1" so="true" class="" Girls="true" Love="true" to="true">Shoujo ai</a>
+                        </li>
+                        <li>
+                            <a title="A work intended and primarily written for males. These works usually involve fighting and/or violence." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=33&amp;state=all&amp;page=1" class="">Shounen</a>
+                        </li>
+                        <li>
+                            <a speak.="true" title="Often synonymous with yaoi, this can be thought of as somewhat less extreme. " rel="tag" Boys="true" href="https://mangakakalot.com/manga_list?type=topview&amp;category=34&amp;state=all&amp;page=1" so="true" class="" Love="true" to="true">Shounen ai</a>
+                        </li>
+                        <li>
+                            <a title="As the name suggests, this genre represents day-to-day tribulations of one/many character(s). These challenges/events could technically happen in real life and are often -if not all the time- set in the present timeline in a world that mirrors our own." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=35&amp;state=all&amp;page=1" class="">Slice of life</a>
+                        </li>
+                        <li>
+                            <a title="Deals with series that are considered profane or offensive, particularly with regards to sexual content." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=36&amp;state=all&amp;page=1" class="">Smut</a>
+                        </li>
+                        <li>
+                            <a title="As the name suggests, anything sports related. Baseball, basketball, hockey, soccer, golf, and racing just to name a few." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=37&amp;state=all&amp;page=1" class="">Sports</a>
+                        </li>
+                        <li>
+                            <a title="Usually entails amazing and unexplained powers or events which defy the laws of physics." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=38&amp;state=all&amp;page=1" class="">Supernatural</a>
+                        </li>
+                        <li>
+                            <a title="Contains events resulting in great loss and misfortune." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=39&amp;state=all&amp;page=1" class="">Tragedy</a>
+                        </li>
+                        <li>
+                            <a title="Webtoon (Hangul: 웹툰) is a term used to describe South Korean webcomics or manhwa that are published online." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=40&amp;state=all&amp;page=1" class="">Webtoons</a>
+                        </li>
+                        <li>
+                            <a title="This work usually involves intimate relationships between men." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=41&amp;state=all&amp;page=1" class="">Yaoi</a>
+                        </li>
+                        <li>
+                            <a title="This work usually involves intimate relationships between women." rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=42&amp;state=all&amp;page=1" class="">Yuri</a>
+                        </li>
+                    </ul>
+                    <ul class="tag spec-tag">
+                        <li>
+                            <a title="New Manga" rel="tag" href="https://mangakakalot.com/manga_list?type=newest&amp;category=all&amp;state=all&amp;page=1" class="">Newest</a>
+                        </li>
+                        <li>
+                            <a title="Top Read Manga" rel="tag" href="https://mangakakalot.com/manga_list?type=latest&amp;category=all&amp;state=all&amp;page=1" class="">Latest</a>
+                        </li>
+                        <li>
+                            <a title="Top Read Manga" rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=all&amp;page=1" class="highlight">Top read</a>
+                        </li>
+                    </ul>
+                    <ul class="tag spec-tag">
+                        <li>
+                            <a title="New Manga" rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=all&amp;page=1" class="highlight">ALL</a>
+                        </li>
+                        <li>
+                            <a title="Completed Manga" rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=completed&amp;page=1" class="">Completed</a>
+                        </li>
+                        <li>
+                            <a title="Ongoing Manga" rel="tag" href="https://mangakakalot.com/manga_list?type=topview&amp;category=all&amp;state=ongoing&amp;page=1" class="">Ongoing</a>
+                        </li>
+                    </ul>
+                    <div style="clear: both"></div>
+                    <div style="background: #FFF; float: left; margin-top: 10px;padding: 10px; width: calc(100% - 20px);">
+                        <div data-numposts="10" data-width="100%" data-colorscheme="light" class="fb-comments" data-href="http://manganelo.com/story_list"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="footer-content">
+            <p>Why You Should<a href="https://mangakakalot.com/">Read Manga</a>Online at Mangakakalot.com ?</p>
+            <p>There are many reasons you should read Manga online, and if you are a fan of this unique storytelling style then learning about them is a must. One of the biggest reasons why you should read Manga online is the money it can save you. While there's nothing like actually holding a book in your hands, there's also no denying that the cost of those books can add up quickly. So why not join the digital age and read Manga online? Another big reason to read Manga online is the huge amount of material that is available. When you go to a comic store or other book store their shelves are limited by the space that they have. When you go to an online site to read Manga those limitations don't exist. So if you want the best selection and you also want to save money then reading Manga online should be an obvious choice for you</p>
+            <p>©2016 Mangakakalot.com, all rights reserved. Top speed, completely free.</p>
+            <p>Current Time is Jun-20-2020 21:39:11 PM.</p>
+            <p>If you have questions about anything or advertising, please contact us at<b>
+                    <a data-cfemail="4d202c232a2c262c262c2122390d2a202c2421632e2220" href="/cdn-cgi/l/email-protection" class="__cf_email__">[email&amp;#160;protected]</a>
+                </b>
+            </p>
+        </div>
+    </footer>
+    <div class="flag_user_clear_cache" style="display: none;"></div>
+    <div id="fb-root"></div>
+</body>
